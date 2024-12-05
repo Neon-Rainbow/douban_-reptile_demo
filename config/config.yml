@@ -1,0 +1,3 @@
+url: https://movie.douban.com/cinema/nowplaying/shanghai/ # 需要爬取的url
+goroutines: 10 # 并发数量
+outputPath: ./output # 输出文件路径
